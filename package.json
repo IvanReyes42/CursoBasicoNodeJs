@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.2"
+  },
+  "name": "curso-nodejs",
+  "version": "0.0.1",
+  "description": "Curso NodeJs Basico",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Curso",
+    "Basico"
+  ],
+  "author": "Ivan Reyes",
+  "license": "ISC"
+}
